@@ -1,0 +1,57 @@
+<style>
+		.carousel {
+            height: 500px;
+            margin-bottom: 60px;
+        }
+		.carousel .item {
+            height: 470px;
+            background-color: #000;
+        }
+		.carousel .item img {
+            width: 100%;
+        }
+		.carousel-caption {
+            z-index: 10;
+        }
+		.carousel-caption  {
+            margin-bottom: -40px;
+            font-size: 20px;
+            line-height: 8;
+        }
+		.summary {
+            padding-right: 15px;
+            padding-left: 15px;
+            padding-top:20px;
+        }
+
+		.summary1{
+            padding-right: 50px;
+            padding-left: 50px;
+			padding-top:20px;
+        }
+        .summary .col-md-4 {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .footer1 {
+            padding-right: 60px;
+            padding-left: 60px;
+            padding-bottom: 20px;
+        }
+        .footer2 {
+            padding-right: 60px;
+            padding-left: 60px;
+            padding-bottom: 120px;
+        }
+        .li1{
+			margin-bottom:15px;
+		}
+		
+		.input2{
+			margin-left:50px;
+			width:400px;
+		}
+		.label1{
+			margin-left:50px;
+		}
+	</style>
